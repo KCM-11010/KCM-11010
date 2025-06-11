@@ -5,6 +5,7 @@ I am a MS student at the Graduate School of AI at KAIST, supervised by [Chulhee 
 📖 My interests: broad interest on Deep Learning and Mathematics fields.
 * (Primary:) Deep Learning Theory (Expressivity and Generalization)
 * Optimization in Machine/Deep Learning
+* Geometric Deep Learning
 * Applied Mathematics
 
 ☎️ Reach me by
